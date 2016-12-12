@@ -1,0 +1,3 @@
+# prevent these from being copied into the docker container and possibly overwriting things
+node_modules
+npm-debug.log
